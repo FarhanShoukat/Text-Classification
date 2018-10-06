@@ -1,6 +1,5 @@
 # Text-Classification
 
-
 ## Abstract:
 In this project, three methods were used to classify emails (as spam and not spam). The classification is done using k nearest neighbor (kNN), Naive Bayes and Artificial Neural Network. Naive Bayes and Neural Network gave good results. kNN failed to give any result.
 
