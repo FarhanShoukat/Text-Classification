@@ -24,10 +24,7 @@ Following preprocessing techniques were used in order:
 As Supervised learning approach was used, kNN, Naive Bayes and Artificial Neural Network were used to classify.
 
 ## Results:
-Good results were obtained from Naive Bayes and Artificial Neural Network. kNN failed to produce any results.
-
-## Report
-Detailed report is given in [Project-Report](../master/Project-Report.docx).
+Good results were obtained from Naive Bayes and Artificial Neural Network. kNN failed to produce any results. Detailed results are given in [Project-Report](../master/Project-Report.docx).
 
 
 ## Conclusion:
