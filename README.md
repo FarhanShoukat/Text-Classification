@@ -32,7 +32,7 @@ Detailed report is given in [Project-Report](../master/Project-Report.docx).
 
 
 ## Conclusion:
-To conclude, all methods work for image classification. However, CNN gives best results with minimum prediction time.
+To conclude, both Naive Bayes and Neural Network give good results. kNN is not meant for sparse data.
 
 
 ## Contact
