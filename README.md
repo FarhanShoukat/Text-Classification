@@ -22,17 +22,17 @@ Following preprocessing techniques were used in order:
 * Convert to sparse vector
 
 ### 4) Machine Learning Algorithm:
-As we were using supervised learning approach to classify, we used kNN, Naive Bayes and Artificial Neural Network.
+As Supervised learning approach was used, kNN, Naive Bayes and Artificial Neural Network were used to classify.
 
 ## Results:
-We got good results from Naive Bayes and Artificial Neural Network the methods. kNN failed to produce any results.
+Good results were obtained from Naive Bayes and Artificial Neural Network. kNN failed to produce any results.
 
 ## Report
 Detailed report is given in [Project-Report](../master/Project-Report.docx).
 
 
 ## Conclusion:
-To conclude, all methods work for image classification. However, CNN gives great results with minimum prediction time.
+To conclude, all methods work for image classification. However, CNN gives best results with minimum prediction time.
 
 
 ## Contact
