@@ -2,7 +2,7 @@
 
 
 ## Abstract:
-In this project, three methods were used to classify emails (as spam and not spam). The classification is done using kNN, Naive Bayes and Artificial Neural Network. First, image data is either normalized or scaled. Then it is fed to classifier. Note the only purpose of this study is to compare various methods of image classification.
+In this project, three methods were used to classify emails (as spam and not spam). The classification is done using k nearest neighbor (kNN), Naive Bayes and Artificial Neural Network. Naive Bayes and Neural Network gave good results. kNN failed to give any result.
 
 
 ## Methadology:
